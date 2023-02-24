@@ -9,3 +9,6 @@ body{
     padding: 0;
     box-sizing: border-box;
 }
+.pic1{
+    background-image: url('../../src/assets/gallery/display/pic1.png');
+}

@@ -10,7 +10,7 @@ export const Gallery = () => {
     //Red Nav
 
     <div className="flex flex-col h-fit md:h-[100vh] text-white bg-white ">
-    <div className={`bg-[url(${Cover})] bg-cover bg-center h-[10vh]  w-[100vw] flex items-center  justify-between    `}>
+    <div className={`bg-Cover bg-cover bg-center h-[10vh]  w-[100vw] flex items-center  justify-between    `}>
     <div></div>
     <div className=" font-semibold text-2xl  pl-[15%]">GALLERY</div>
         <div className="pr-[10%] cursor-pointer">View All &gt; </div>
