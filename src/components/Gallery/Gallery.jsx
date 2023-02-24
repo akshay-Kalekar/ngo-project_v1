@@ -1,8 +1,8 @@
 import React from "react";
 import { Card } from "./Card";
 import { Details } from "./Details";
-import { motion } from "framer-motion"
-import Cover from '../../assets/gallery/elements/Cover.png'
+import { motion } from "framer-motion";
+import { pic1,pic2,pic3,pic4,pic5,pic6,Cover } from "../../assets";
 export const Gallery = () => {
   
 // import {pic1.png } from '../../assets/gallery/display/'
