@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'Cover': "url('./src/assets/gallery/elements/Cover.png')",
+        'Cover': "url(https://wallpaperaccess.com/full/7488635.jpg)",
       }
     },
   },
